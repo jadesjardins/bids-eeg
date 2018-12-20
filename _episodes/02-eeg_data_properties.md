@@ -3,7 +3,7 @@ title: "EEG data properties"
 teaching: 10
 exercises: 10
 questions:
-- "What are the properties of EEG data sets that require standarized definitions?"
+- "What are the properties of EEG data sets that reqyuire standarized definitions?"
 objectives:
 - "Describe the exhaustive list of EEG data properties that need to be expressed in the standard"
 keypoints:
